@@ -1,13 +1,48 @@
-# React + Vite
+# 🛒 Food Basket Thunk
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Food Basket Thunk is a modern and responsive web application built with React. It allows users to explore restaurants, view detailed menus, and manage a shopping cart using a clean and efficient interface.
 
-Currently, two official plugins are available:
+# Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![thunk-basket](https://github.com/user-attachments/assets/d764262c-9872-4add-86ac-44802b77171a)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# food-basket-thunk
+# 🔧 Technologies Used
+
+- React – For building dynamic and component-based UI
+
+- React Router DOM – For handling page routing
+
+- Tailwind CSS – For utility-first responsive styling
+
+- Axios – For HTTP requests and API interactions
+
+- JSON Server – To simulate a backend REST API
+
+- Redux – For centralized state management
+
+- Redux Thunk – To handle asynchronous logic within Redux
+
+- React Icons – For modern, scalable vector icons
+
+# 📱 Features
+
+- 📡 Fetches restaurant data from a mock API
+
+- 🧾 Displays restaurant cards on the home page
+
+- 🔍 Clicking a restaurant card redirects to a detailed page
+
+- 🧠 Restaurant detail page includes general info and listed products
+
+- 🛍️ Users can add products to a cart
+
+- 📦 Cart page displays:
+
+- Added products with details
+
+Total product quantity
+
+Total price calculation
+
+- 📲 Fully responsive layout for all screen sizes
