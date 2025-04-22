@@ -39,10 +39,10 @@ Food Basket Thunk is a modern and responsive web application built with React. I
 
 - 📦 Cart page displays:
 
-- Added products with details
+* Added products with details
 
-Total product quantity
+* Total product quantity
 
-Total price calculation
+* Total price calculation
 
 - 📲 Fully responsive layout for all screen sizes
